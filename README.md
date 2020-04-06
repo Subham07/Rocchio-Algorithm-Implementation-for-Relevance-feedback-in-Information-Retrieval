@@ -15,6 +15,8 @@ Queries are of the form of XML File and we just extract text with the <desc> </d
 Documents are of the form of XML File and we just extract text with the <TEXT> </TEXT> tags
 
 ## Pre-Processing
-Document and Query Tokens have been Extracted in PreProcessing.ipynb file and stored in different csv files
+Document and Query Tokens have been Extracted in **PreProcessing.ipynb** file and stored in different csv files
 
+## Algorithm Implementation Approches:
+  1. 
 
