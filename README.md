@@ -3,4 +3,4 @@ This repository has codes for implementing Rocchio Algorithm using both Tf-IDF a
 
 # Rocchio Algorithm formula:
 
-
+![Formula](https://github.com/Subham07/Rocchio-Algorithm-Implementation-for-Relevance-feedback-in-Information-Retrieval/blob/master/Rocchio%20Algorithm.JPG)
