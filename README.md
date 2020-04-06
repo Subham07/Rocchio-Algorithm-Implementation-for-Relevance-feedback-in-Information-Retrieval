@@ -14,10 +14,10 @@ gamma is taken as 0 and 0.15 in some cases
 Dataset has been taken from: https://drive.google.com/open?id=1JuawXQmYVkjpfL3H0blqjDrqw8V1lHrC
 
 ## Query Format
-Queries are of the form of XML File and we just extract text with the <desc> </desc> tags
+Queries are of the form of XML File and we just extract text with the &lt; desc &gt; and &lt; /desc &gt; tags
 
 ## Document Format
-Documents are of the form of XML File and we just extract text with the <TEXT> </TEXT> tags
+Documents are of the form of XML File and we just extract text with the &lt; TEXT &gt; and &lt; /TEXT &gt; tags
 
 ## Pre-Processing
 Document and Query Tokens have been Extracted in **PreProcessing.ipynb** file and stored in different csv files
